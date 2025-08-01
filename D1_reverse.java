@@ -1,5 +1,5 @@
 import java.util.*;
-public class reverse {
+public class D1_reverse {
     public static void rev(int a){
         int num = 0;
         while(a>0){
